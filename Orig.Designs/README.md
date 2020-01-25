@@ -13,7 +13,7 @@ and put into KiCAD by yours truly with very little modifications.
 Footprints for RLC are 0805 (except for the one big capacitor).<br>
 Integrated circuits are in DIP or SOIC footprint, to be more kind to people without killer solder skills.<br>
 All components except the YM2413B can be sourced from LCSC.com. I bought my YM2413Bs on Ebay<br>
-**Make sure that PCBs are fabricated in 0.8mm thickness, otherwise you couldn't fit the PCB in the 2x15 1.127 Casio Interface Connector**<br>
+**Make sure that PCBs are fabricated in 0.8mm thickness, otherwise you couldn't fit the PCB in the 2x15 1.27mm Casio Interface Connector**<br>
 
 __**Positive points:**__ 
 - elegant and simple design
