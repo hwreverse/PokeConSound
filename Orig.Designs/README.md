@@ -1,10 +1,14 @@
 # Original Soundcard Designs
+
+![SoundCard](img/card.png)
+
 Following Soundcard designs were found on the Internet Archive (Miyura, 2010)
 and put into KiCAD by yours truly with very little modifications.
 
-OPLL Soundcard for Casio PB-1000
+<a href="CASIO%20PB-1000%20YM2413%20Soundcard/">OPLL Soundcard for Casio PB-1000</a>
 
-OPLL Soundcard for Casio VX-4
+<a href="CASIO%20VX4%20YM2413%20Soundcard%20v1.1/">OPLL Soundcard for Casio VX-3,4,Z-1</a>
+
 
 Footprints for RLC are 0805 (except for the one big capacitor). 
 Integrated circuits are in DIP or SOIC footprint, to be more kind to people without killer solder skills.
